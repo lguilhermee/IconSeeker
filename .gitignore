@@ -1,0 +1,46 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.recipe
+*.opendb
+*.db-wal
+*.db
+*.db-shm
+*.json
+*.ipch
+*.vsidx
+.vs/IconSeeker/v17/.suo
